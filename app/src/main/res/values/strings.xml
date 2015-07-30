@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">DialogsLab</string>
+
+    <string name="simple_dialog_text">Launch Simple Dialog</string>
+    <string name="list_dialog_text">Launch List Dialog</string>
+    <string name="multilist_dialog_text">Launch MultiList Dialog</string>
+    <string name="custom_dialog_text">Launch Custom Dialog</string>
+    <string name="time_dialog_text">Launch Time Dialog</string>
+    <string name="date_dialog_text">Launch Date Dialog</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <!-- SimpleDialogFragment -->
+    <string name="fire_missiles_title"> Test Fire</string>
+    <string name="dialog_fire_missiles">Fire Missiles!</string>
+    <string name="fire">Fire</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- ListDialogFragment -->
+    <string name="pick_a_color">Pick a color</string>
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+    </string-array>
+
+    <!-- MultiListDialogFragment -->
+    <string name="pick_a_topping">Pick a topping</string>
+    <string-array name="toppings">
+        <item>Pepperoni</item>
+        <item>Mushrooms</item>
+        <item>Cheese</item>
+    </string-array>
+    <string name="ok">Ok</string>
+
+    <string name="enter_userid">Enter Userid</string>
+    <string name="enter_pwd">Enter Password</string>
+    <string name="signin">signin</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
